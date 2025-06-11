@@ -14,11 +14,10 @@ import { Media } from './collections/Media'
 import { Applications } from './collections/Applications'
 import { Contact } from './collections/Contact'
 import { Quote } from './collections/Quote'
-import { Training } from './collections/training'
-import { Projects } from './collections/projects'
+import { Training } from './collections/Training'
+import { Projects } from './collections/Projects'
 import { MediaImages } from './collections/MediaImages'
 
-import Navbar from './components/Navbar';
 import { Internships } from './collections/Internships'
 import { IApplications } from './collections/IApplications'
 import { IMedia } from './collections/IMedia'
